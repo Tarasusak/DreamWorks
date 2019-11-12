@@ -1,0 +1,6 @@
+C:\Users\taras\Desktop\DreamWork\DreamWork\obj\Debug\DreamWork.csprojAssemblyReference.cache
+C:\Users\taras\Desktop\DreamWork\DreamWork\bin\Debug\DreamWork.exe.config
+C:\Users\taras\Desktop\DreamWork\DreamWork\bin\Debug\DreamWork.exe
+C:\Users\taras\Desktop\DreamWork\DreamWork\bin\Debug\DreamWork.pdb
+C:\Users\taras\Desktop\DreamWork\DreamWork\obj\Debug\DreamWork.exe
+C:\Users\taras\Desktop\DreamWork\DreamWork\obj\Debug\DreamWork.pdb
